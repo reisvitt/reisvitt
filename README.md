@@ -2,7 +2,7 @@
 # Vitor Reis
 ### Software Engineer
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Reis-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reisvitt/)](https://www.linkedin.com/in/diego-schell-fernandes/)
+[![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Reis-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reisvitt/)](https://www.linkedin.com/in/reisvitt/)
 [![Gmail Badge](https://img.shields.io/badge/-reis.vitt@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reis.vitt@gmail.com)](mailto:reis.vitt@gmail.com)
 
 
