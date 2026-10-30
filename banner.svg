@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Vitor Reis, Tech Lead and Senior Front-End / Full-Stack Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#160a33"/>
+      <stop offset="0.6" stop-color="#3a0f8f"/>
+      <stop offset="1" stop-color="#6d28d9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <circle cx="1090" cy="50" r="170" fill="#ffffff" opacity="0.05"/>
+  <circle cx="1170" cy="290" r="110" fill="#ffffff" opacity="0.05"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="64" y="118" font-size="76" font-weight="700" fill="#ffffff">Vitor Reis</text>
+    <text x="66" y="170" font-size="31" fill="#ddd2fb">Tech Lead · Senior Front-End / Full-Stack Engineer</text>
+    <g fill="#ffffff" font-size="34" font-weight="700">
+      <text x="66" y="258">6+ years</text>
+      <text x="306" y="258">Team of 3</text>
+      <text x="566" y="258">Web + Mobile</text>
+      <text x="876" y="258">AWS</text>
+    </g>
+    <g fill="#c4b5f5" font-size="21">
+      <text x="66" y="290">building products</text>
+      <text x="306" y="290">as Tech Lead</text>
+      <text x="566" y="290">React, React Native</text>
+      <text x="876" y="290">infra as code</text>
+    </g>
+  </g>
+</svg>
